@@ -67,13 +67,13 @@ El proyecto genera varias visualizaciones:
 Puedes ver algunos ejemplos a continuación:
 
 #### Gráfica 1: Top 5 eventos con mayor asistencia
-![Top 5 eventos](./images/top_5_eventos.png)
+![Top 5 eventos](./imagenes/top_5_eventos.png)
 
 #### Gráfica 2: Frecuencia de asistencia por rango de edad
 ![Frecuencia de asistencia](./imagenes/frecuencia_asistencia.png)
 
 #### Gráfica 3: Impacto de los medios publicitarios
-![Impacto medios publicitarios](./images/impacto_promocion.png)
+![Impacto medios publicitarios](./imagenes/impacto_promocion.png)
 
 ## Exportación de Resultados
 El archivo resultante con los análisis se exporta como **`reporte_eventos.csv`** y contiene:
