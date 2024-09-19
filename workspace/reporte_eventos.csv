@@ -1,4 +1,4 @@
-id_aficionado,nombre_aficionado,edad,género,ubicación_residencia,id_evento,nombre_evento,fecha_evento,ubicación_evento,asistentes_totales,id_promocion,medio_publicitario,presupuesto,fecha_inicio,fecha_fin,rango_edad,impacto_promocion
+id_aficionado,nombre_aficionado,edad,género,Ubicación de Residencia,id_evento,Nombre del Evento,fecha_evento,ubicación_evento,Asistentes Totales,id_promocion,Medio Publicitario,Presupuesto de la Promoción,fecha_inicio,fecha_fin,rango_edad,Impacto de la promoción (Asistentes/Presupuesto)
 1,Aficionado 1,45,F,Ciudad B,41,Evento 41,2023-02-10,Ciudad C,140,45,Redes Sociales,9315,2023-08-09,2023-08-14,36-45,0.015029522275899088
 1,Aficionado 1,45,F,Ciudad B,41,Evento 41,2023-02-10,Ciudad C,140,47,Redes Sociales,17451,2023-08-19,2023-08-24,36-45,0.008022462896109106
 2,Aficionado 2,20,F,Ciudad D,3,Evento 3,2023-01-03,Ciudad A,254,3,Internet,6804,2023-01-11,2023-01-16,19-25,0.03733098177542622
