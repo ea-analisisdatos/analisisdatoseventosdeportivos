@@ -55,22 +55,22 @@ En este reto, métete en la piel de un analista de datos que trabaja para una em
 
 **A continuación te ofrecemos las pautas que debes seguir, ¡toma nota!**
 
-1. Preparar el entorno de trabajo
+**1. Preparar el entorno de trabajo**
 - Crea un nuevo archivo Jupyter Notebook llamado analisis_eventos.ipynb.
 
-2. Importar las librerías necesarias
+**2. Importar las librerías necesarias**
 - Importa las librerías Pandas que necesitarás para realizar el análisis.
 
-3. Cargar los datos (lectura y procesamiento de datos con Pandas)
+**3. Cargar los datos (lectura y procesamiento de datos con Pandas)**
 - Utiliza Pandas para cargar los archivos CSV: eventos.csv, aficionados.csv y promociones.csv. Guarda los datos en tres DataFrames distintos.
 
-4. Limpieza de datos
+**4. Limpieza de datos**
 - Elimina las filas con valores nulos en los DataFrames para asegurarte de trabajar con datos completos. Utiliza el método dropna().
 
-5. Combinación de los DataFrames
+**5. Combinación de los DataFrames**
 - Para poder analizar los datos en conjunto, deberás combinarlos. Utiliza merge() o join() para combinar los DataFrames de eventos, aficionados y promociones. - - Elige la columna id_evento para relacionar las tablas.
 
-6. Responde las siguientes preguntas de negocio
+**6. Responde las siguientes preguntas de negocio**
 - ¿Cuál es el evento con mayor asistencia total?
 - Usa max() en la columna asistentes_totales para identificar el evento con mayor número de asistentes.
 - ¿Qué rango de edad asiste más frecuentemente a los eventos?
@@ -80,9 +80,9 @@ En este reto, métete en la piel de un analista de datos que trabaja para una em
 - ¿Cuál es la ubicación de residencia que más aficionados aporta a los eventos?
 - Usa groupby() para sumar los aficionados por ubicación de residencia.
 
-7. Exportación de los resultados:
+**7. Exportación de los resultados:**
 - Guarda el DataFrame resultante con todas las transformaciones y análisis en un archivo CSV llamado reporte_eventos.csv utilizando la función df.to_csv().
 
 
-**Tecnologías a utilizar**
+## Tecnologías a utilizar
 - Pandas
