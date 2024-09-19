@@ -1,7 +1,7 @@
-"# Proyecto" 
+# Proyecto
 En este reto, métete en la piel de un analista de datos que trabaja para una empresa de eventos deportivos. La empresa ha recopilado datos de sus eventos, los aficionados que asistieron y las promociones publicitarias realizadas para atraer a más asistentes. Tu tarea será procesar y analizar estos datos utilizando Python y la librería Pandas, combinando la información para extraer 'insights' clave que ayuden a mejorar la planificación de futuros eventos y promociones.
 
-'## Criterios de calificación'
+## Criterios de calificación
 
 **Análisis de datos y respuestas a preguntas de negocio**
 - El alumno debe haber respondido correctamente a las preguntas de negocio, utilizando métodos como groupby(), max(), y cut(). Las respuestas deben ser claras y basadas en un análisis correcto de los datos.
@@ -19,7 +19,7 @@ En este reto, métete en la piel de un analista de datos que trabaja para una em
 - Se evaluará si el DataFrame final con los análisis ha sido exportado correctamente a un archivo CSV llamado reporte_eventos.csv. El archivo CSV debe estar en un formato legible y bien organizado, con las columnas relevantes claramente etiquetadas.
 - Peso: 15%
 
-'## Requisitos'
+## Requisitos
 
 **Carga de los datos:**
 
@@ -40,7 +40,7 @@ En este reto, métete en la piel de un analista de datos que trabaja para una em
     - El DataFrame final debe ser exportado en formato CSV con el nombre reporte_eventos.csv. Asegúrate de que el archivo se guarde en la carpeta /workspace, usando una ruta absoluta.
 
 
-'## Instrucciones:'
+## Instrucciones:
 
 - Deberás trabajar con tres conjuntos de datos que contienen información sobre los siguienters puntos:
 
